@@ -47,7 +47,7 @@ The app will run at http://localhost:3000
 🙌 Author
 
 Harsh Sisodia
-	•	https://github.com/HarshSisodia
+• https://github.com/HarshSisodia
 
 
 
