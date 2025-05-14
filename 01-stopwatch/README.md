@@ -17,17 +17,18 @@ A simple stopwatch app built with React. This project helps you understand React
 - HTML/CSS
 
 ## 📂 Project Structure
+## 📂 Project Structure
 
-01-stopwatch/
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── ControlButtons.jsx     // Button controls
-│   │   ├── Timer.jsx              // Time display
-│   │   └── Stopwatch.jsx          // Stopwatch logic
-│   ├── App.js
-│   ├── App.css
-│   └── index.js
+01-stopwatch/  
+├── public/  
+├── src/  
+│   ├── components/  
+│   │   ├── ControlButtons.jsx        → Start, Pause, Resume, Reset  
+│   │   ├── Timer.jsx                 → Time display  
+│   │   └── Stopwatch.jsx             → Timer logic  
+│   ├── App.js  
+│   ├── App.css  
+│   └── index.js  
 
 
 ## 🧑‍💻 Getting Started
